@@ -153,6 +153,13 @@ This sheet contains data about fruit purchases made by individuals, including th
 
 ![image](https://github.com/user-attachments/assets/1c3e6798-9e53-41a7-b16d-bcd80ae3cf20)
 
+# Conclusion:
+This workbook demonstrates how basic Excel functions can be used to perform data analysis. The functions utilized include:
 
-
+'''excel
+SUM for total calculations.
+AVERAGE for calculating average values.
+MIN and MAX for finding the lowest and highest values.
+COUNT for counting entries.
+SUMIFS, AVERAGEIFS, MINIFS, and MAXIFS for conditional calculations based on specific criteria. excel'''
 
