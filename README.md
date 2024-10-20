@@ -6,6 +6,10 @@ This Excel workbook contains two sheets: one for student marks in various subjec
 ### Sheet 1: Student Marks Analysis
 This sheet contains student data including their names, gender, and marks in subjects such as Maths, English, Science, and General Knowledge (GK). The following analyses are performed
 
+		
+![image](https://github.com/user-attachments/assets/4c2a98bf-5a14-4cbe-9ecd-32e19ed099c2)
+
+
 **1. Calculate the total marks score by Vivek?**
 
 **2. What is the total marks of Rahul across all the subjects?**
