@@ -69,7 +69,90 @@ This sheet contains data about fruit purchases made by individuals, including th
 
 ![image](https://github.com/user-attachments/assets/089539ff-ccc7-4e94-afdd-ea52cbb66cb3)
 
-1. Find the total amount spend by Rishi by using the following formulas-
-![image](https://github.com/user-attachments/assets/7a61e1eb-5c98-4bbd-9b03-d33d3e649818)
+**1. Find the total amount spend by Rishi by using the following formulas-**
+
+![image](https://github.com/user-attachments/assets/db7d3ba0-67d5-4126-8d0d-48ed4dbcb794)
+
+**2.Calculate the total purchase amount for Banana?**
+
+![image](https://github.com/user-attachments/assets/5c0a2506-cd24-48f4-aa67-956fc690637f)
+
+**3.Calculate the total amount spend by Ajay on orange?**
+
+![image](https://github.com/user-attachments/assets/5d232cfc-5775-43ed-a55a-444796ccb42e)
+
+**4. Calculate the average purchase amount for Apple?**
+
+![image](https://github.com/user-attachments/assets/fb64a6f8-3ec1-4843-8b96-c89170896d8c)
+
+**5.Calculate the average amount spend by Rishi?**
+
+![image](https://github.com/user-attachments/assets/8466b469-5489-44f3-97de-8310974573f3)
+
+**6. Calculate the average price paid by Rishi to purchase Orange?**
+
+![image](https://github.com/user-attachments/assets/607a029f-e01a-41a8-a7a2-240e8182893b)
+
+**7.Count the number of times Oranges were purchased by Ajay?**
+
+![image](https://github.com/user-attachments/assets/17e4213b-8b49-4a8f-be09-d4f44cce541c)
+
+**8.Count the number of Apple?**
+
+![image](https://github.com/user-attachments/assets/1dd4c352-8717-4f80-9b38-2422153c929b)
+
+**9.Count the number of times Guava was purchased by Ritik?**
+
+![image](https://github.com/user-attachments/assets/89356ec5-3ef3-435f-a828-c09211fed999)
+
+**10.Find the maximum purchase amount of Apple purchased by Aman?**
+
+![image](https://github.com/user-attachments/assets/2d298d5a-5d7d-4034-9428-bd5419536fba)
+
+**11. Find the maximum purchase amount of fruits purchased by Rishi?**
+
+![image](https://github.com/user-attachments/assets/df7e5e72-6561-4efa-a452-6c620d5f9af4)
+
+**12. Find the maximum purchase amount of Orange by Rishi?**
+
+![image](https://github.com/user-attachments/assets/e6518811-2de9-487f-8d03-e7a853c9109a)
+
+**13. Find the minimum purchase amount of guava purchased by Ritik?**
+
+![image](https://github.com/user-attachments/assets/58f654ca-e6b4-470e-9dea-1d3aa0466072)
+
+**14. Find the minimum purchase amount of fruits purchased by Ajay?**
+
+![image](https://github.com/user-attachments/assets/56c9a4ef-72e8-4afc-b792-d606048e189f)
+
+**15. Find the minimum purchase amount of Apple?**
+
+![image](https://github.com/user-attachments/assets/2c81e217-754c-4ce0-86fd-054afbf41761)
+
+**16. Find the total amount spent on Apple where all the purchase amounts greater than 100.**
+
+![image](https://github.com/user-attachments/assets/42806f3f-ba2b-42dd-bb65-6e09b1ecc037)
+
+**17. Find the total amount spent on Bananas where all the purchase amounts  are lesser than or equal to 140.**
+
+![image](https://github.com/user-attachments/assets/d04edf61-a799-40e0-a9e5-88f388d3e10a)
+
+**18. Count the number of fruits whose purchase amount is greater than 70 and less than 180.**
+
+![image](https://github.com/user-attachments/assets/538ca585-d006-4217-9ccf-3fb6ea709dd2)
+
+**19. Count the number of fruits whose price is not equal to 194 and is not an Apple?**
+
+![image](https://github.com/user-attachments/assets/57541cf2-3b58-45fd-979a-202c7ea23a06)
+
+**20. Find the total amount spent by Ajay where all the purchase amounts are greater than or equal to 50.**
+
+![image](https://github.com/user-attachments/assets/477e4297-a1f3-4c92-be75-07855acfbedf)
+
+**21. Count the number of fruits purchased by Rishi whose purchased amount is less than 190?**
+
+![image](https://github.com/user-attachments/assets/1c3e6798-9e53-41a7-b16d-bcd80ae3cf20)
+
+
 
 
