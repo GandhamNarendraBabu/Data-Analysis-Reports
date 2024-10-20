@@ -37,3 +37,20 @@ This sheet contains student data including their names, gender, and marks in sub
 **Table -1**	
 
 ![image](https://github.com/user-attachments/assets/c4d36319-6b2d-484a-abee-659c315a9109)
+
+**Table -2**		
+
+![image](https://github.com/user-attachments/assets/84f898f4-6221-401d-a60a-11bdf4e4d823)
+
+**15. Fill the following 2 tables using functions-**
+
+**Table -1**		
+
+![image](https://github.com/user-attachments/assets/c147f11a-5395-41ee-ae74-f9549694f84c)
+
+**Table -2**		
+
+![image](https://github.com/user-attachments/assets/f0275827-678a-47a1-b2c1-14aa6d7bc754)
+
+
+
