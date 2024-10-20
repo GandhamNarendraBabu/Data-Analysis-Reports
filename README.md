@@ -35,7 +35,9 @@ This sheet contains student data including their names, gender, and marks in sub
 **14. Fill the following 2 tables and also check the answer-**
 
 **Table -1**	
-Functions	Maths	Science
+
+**Functions	Maths	Science**
+
 Sum	853	850
 Average	85.3	85
 Count	10	10
