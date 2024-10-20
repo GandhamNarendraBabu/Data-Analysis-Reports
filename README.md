@@ -53,4 +53,9 @@ This sheet contains student data including their names, gender, and marks in sub
 ![image](https://github.com/user-attachments/assets/f0275827-678a-47a1-b2c1-14aa6d7bc754)
 
 
+## Answers are provided below:
+
+
+![image](https://github.com/user-attachments/assets/d3fffdc9-a7e4-4d11-89de-66072c7cc6d7)
+
 
