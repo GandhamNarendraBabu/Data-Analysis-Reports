@@ -36,9 +36,4 @@ This sheet contains student data including their names, gender, and marks in sub
 
 **Table -1**	
 
-**Functions	Maths	Science**
-Sum	853	850
-Average	85.3	85
-Count	10	10
-Check	0	0
 ![image](https://github.com/user-attachments/assets/c4d36319-6b2d-484a-abee-659c315a9109)
