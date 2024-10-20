@@ -62,4 +62,14 @@ This sheet contains student data including their names, gender, and marks in sub
 
 ![image](https://github.com/user-attachments/assets/d3fffdc9-a7e4-4d11-89de-66072c7cc6d7)
 
+### Sheet 2: Fruit Purchases Analysis
+
+This sheet contains data about fruit purchases made by individuals, including the fruit type and purchase amount. The following analyses are performed:
+
+
+![image](https://github.com/user-attachments/assets/089539ff-ccc7-4e94-afdd-ea52cbb66cb3)
+
+1. Find the total amount spend by Rishi by using the following formulas-
+![image](https://github.com/user-attachments/assets/7a61e1eb-5c98-4bbd-9b03-d33d3e649818)
+
 
